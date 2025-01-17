@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\MovieWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59612181-C5B3-4AF9-88F8-B28F6CAC9AA2}|MovieWebApi\\MovieWebApi.csproj|c:\\users\\hp\\source\\repos\\moviewebapi\\moviewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59612181-C5B3-4AF9-88F8-B28F6CAC9AA2}|MovieWebApi\\MovieWebApi.csproj|solutionrelative:moviewebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59612181-C5B3-4AF9-88F8-B28F6CAC9AA2}|MovieWebApi\\MovieWebApi.csproj|c:\\users\\hp\\source\\repos\\moviewebapi\\moviewebapi\\controllers\\movieappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59612181-C5B3-4AF9-88F8-B28F6CAC9AA2}|MovieWebApi\\MovieWebApi.csproj|solutionrelative:moviewebapi\\controllers\\movieappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MovieWebApi\\MovieWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "MovieWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MovieWebApi\\MovieWebApi\\Program.cs",
+              "RelativeToolTip": "MovieWebApi\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAgwB8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:09:21.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieAppController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MovieWebApi\\MovieWebApi\\Controllers\\MovieAppController.cs",
+              "RelativeDocumentMoniker": "MovieWebApi\\Controllers\\MovieAppController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MovieWebApi\\MovieWebApi\\Controllers\\MovieAppController.cs",
+              "RelativeToolTip": "MovieWebApi\\Controllers\\MovieAppController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAYwEQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T09:41:31.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
